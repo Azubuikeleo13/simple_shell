@@ -2,7 +2,7 @@
 
 /*
  * File: env_builtins.c
- * Auth: Korede & Francis
+ * Auth: Azubuike Leo and Ologundudu Ologundudu
  */
 
 int shellby_env(char **args, char __attribute__((__unused__)) **front);
